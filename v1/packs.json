@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "en-au-william.zip", "bytes": 98783901, "sha256": "dc38c48fb597a9c77767a3ec95e90f7ce174c1cf4fc729ba2a13f64d7777c71f"}
+  ]
+}
